@@ -1,0 +1,8 @@
+td, th {
+border:  solid red;
+}
+body{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}

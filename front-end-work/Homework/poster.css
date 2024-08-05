@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(./photo_2024-07-29_10-52-28.jpg);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 0 auto;
+}
